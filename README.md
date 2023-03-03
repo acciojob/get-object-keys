@@ -1,3 +1,3 @@
-# Acciojob Assignment Solution Template Repo
+# Get Object Keys
 
-# Instructions 
+Create an object called `student` with a property called `name`. Add a property to the Object prototype called `getKeys()` that returns an array of all the keys in the object.
